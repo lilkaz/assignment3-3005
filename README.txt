@@ -1,4 +1,6 @@
-1) Connect to PostgreSQL
+1) Video link: https://drive.google.com/file/d/1mNPwOilaX7-MWxJDMPRn7bNQ_6L0O3Ta/view?usp=sharing
+
+Connect to PostgreSQL
 
 
 2) Create a new database called school_db
