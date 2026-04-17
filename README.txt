@@ -1,4 +1,4 @@
-1) Video link: https://drive.google.com/file/d/1mNPwOilaX7-MWxJDMPRn7bNQ_6L0O3Ta/view?usp=sharing
+1) 
 
 Connect to PostgreSQL
 
